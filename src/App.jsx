@@ -37,7 +37,7 @@ const courses = [
 function App() {
   return (
     <div>
-      <h1>Lorem ipsum dolor sit amet!</h1>
+      <h1 className="">My Courses (3)</h1>
     </div>
   );
 }
